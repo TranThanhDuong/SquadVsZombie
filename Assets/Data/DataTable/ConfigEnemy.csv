@@ -1,0 +1,10 @@
+id,name,prefab,range,type
+1,Musketeer,Enemy_01,1,1
+2,ZomFlower,Enemy_02,1,2
+3,Cam,Enemy_03,1,2
+4,StickBoy,Enemy_04,1,2
+5,GankTeam,Enemy_05,2,3
+6,OneEye,Enemy_06,1,3
+7,Lwas,Enemy_07,1,2
+8,GhostRider,Enemy_08,1,1
+9,OnePunch,Enemy_09,4,3

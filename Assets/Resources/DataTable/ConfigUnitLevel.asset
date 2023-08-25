@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6daff091f96b749d5a2db67c64f3c738, type: 3}
+  m_Name: ConfigUnitLevel
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    id_Unit: 1
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 2
+    range: 6
+    gemUpgrade: 0
+  - id: 10
+    id_Unit: 1
+    level: 2
+    damage: 1
+    hp: 6
+    rof: 1.8
+    range: 6
+    gemUpgrade: 100
+  - id: 19
+    id_Unit: 1
+    level: 3
+    damage: 5
+    hp: 6
+    rof: 1.6
+    range: 6
+    gemUpgrade: 300
+  - id: 28
+    id_Unit: 1
+    level: 4
+    damage: 5
+    hp: 4
+    rof: 1.5
+    range: 6
+    gemUpgrade: 500
+  - id: 2
+    id_Unit: 2
+    level: 1
+    damage: 1
+    hp: 8
+    rof: 2
+    range: 2
+    gemUpgrade: 0
+  - id: 11
+    id_Unit: 2
+    level: 2
+    damage: 6
+    hp: 10
+    rof: 1.8
+    range: 2
+    gemUpgrade: 100
+  - id: 20
+    id_Unit: 2
+    level: 3
+    damage: 5
+    hp: 8
+    rof: 1.6
+    range: 2
+    gemUpgrade: 300
+  - id: 29
+    id_Unit: 2
+    level: 4
+    damage: 5
+    hp: 8
+    rof: 1.5
+    range: 2
+    gemUpgrade: 500
+  - id: 3
+    id_Unit: 3
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 4
+    range: 10
+    gemUpgrade: 0
+  - id: 12
+    id_Unit: 3
+    level: 2
+    damage: 6
+    hp: 6
+    rof: 3.5
+    range: 10
+    gemUpgrade: 100
+  - id: 21
+    id_Unit: 3
+    level: 3
+    damage: 5
+    hp: 4
+    rof: 3.5
+    range: 10
+    gemUpgrade: 300
+  - id: 30
+    id_Unit: 3
+    level: 4
+    damage: 5
+    hp: 4
+    rof: 3.5
+    range: 10
+    gemUpgrade: 500
+  - id: 4
+    id_Unit: 4
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 2
+    range: 6
+    gemUpgrade: 0
+  - id: 13
+    id_Unit: 4
+    level: 2
+    damage: 8
+    hp: 6
+    rof: 2
+    range: 6
+    gemUpgrade: 100
+  - id: 22
+    id_Unit: 4
+    level: 3
+    damage: 7
+    hp: 4
+    rof: 2
+    range: 6
+    gemUpgrade: 300
+  - id: 31
+    id_Unit: 4
+    level: 4
+    damage: 7
+    hp: 4
+    rof: 2
+    range: 6
+    gemUpgrade: 500
+  - id: 5
+    id_Unit: 5
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 4
+    range: 6
+    gemUpgrade: 0
+  - id: 14
+    id_Unit: 5
+    level: 2
+    damage: 9
+    hp: 6
+    rof: 4
+    range: 6
+    gemUpgrade: 100
+  - id: 23
+    id_Unit: 5
+    level: 3
+    damage: 8
+    hp: 4
+    rof: 4
+    range: 6
+    gemUpgrade: 300
+  - id: 32
+    id_Unit: 5
+    level: 4
+    damage: 8
+    hp: 4
+    rof: 4
+    range: 6
+    gemUpgrade: 500
+  - id: 6
+    id_Unit: 6
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 1
+    range: 6
+    gemUpgrade: 0
+  - id: 15
+    id_Unit: 6
+    level: 2
+    damage: 10
+    hp: 6
+    rof: 1
+    range: 6
+    gemUpgrade: 100
+  - id: 24
+    id_Unit: 6
+    level: 3
+    damage: 9
+    hp: 4
+    rof: 1
+    range: 6
+    gemUpgrade: 300
+  - id: 33
+    id_Unit: 6
+    level: 4
+    damage: 9
+    hp: 4
+    rof: 1
+    range: 6
+    gemUpgrade: 500
+  - id: 7
+    id_Unit: 7
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 0
+  - id: 16
+    id_Unit: 7
+    level: 2
+    damage: 9
+    hp: 6
+    rof: 3
+    range: 6
+    gemUpgrade: 100
+  - id: 25
+    id_Unit: 7
+    level: 3
+    damage: 8
+    hp: 4
+    rof: 5
+    range: 6
+    gemUpgrade: 300
+  - id: 34
+    id_Unit: 7
+    level: 4
+    damage: 8
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 500
+  - id: 8
+    id_Unit: 8
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 4
+    range: 6
+    gemUpgrade: 0
+  - id: 17
+    id_Unit: 8
+    level: 2
+    damage: 10
+    hp: 6
+    rof: 4
+    range: 6
+    gemUpgrade: 100
+  - id: 26
+    id_Unit: 8
+    level: 3
+    damage: 9
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 300
+  - id: 35
+    id_Unit: 8
+    level: 4
+    damage: 9
+    hp: 4
+    rof: 4
+    range: 6
+    gemUpgrade: 500
+  - id: 9
+    id_Unit: 9
+    level: 1
+    damage: 1
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 0
+  - id: 18
+    id_Unit: 9
+    level: 2
+    damage: 11
+    hp: 6
+    rof: 3
+    range: 6
+    gemUpgrade: 100
+  - id: 27
+    id_Unit: 9
+    level: 3
+    damage: 10
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 300
+  - id: 36
+    id_Unit: 9
+    level: 4
+    damage: 10
+    hp: 4
+    rof: 3
+    range: 6
+    gemUpgrade: 500

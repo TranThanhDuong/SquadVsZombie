@@ -1,0 +1,9 @@
+id,name,prefab,cost,countDown,timeDeploy,buycost
+1,Musketeer,Unit_01,10,3,5,100
+2,ZomFlower,Unit_02,15,3,8,200
+3,Sniper,Unit_03,20,5,4,300
+4,StickBoy,Unit_04,25,5,5,400
+5,GankTeam,Unit_05,30,7,10,500
+6,OneEye,Unit_06,35,8,20,600
+7,Lwas,Unit_07,40,10,30,700
+8,GhostRider,Unit_08,45,10,40,800

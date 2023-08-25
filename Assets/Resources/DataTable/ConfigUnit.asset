@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f52eaa879a9b45c2a3f09d44665ef46, type: 3}
+  m_Name: ConfigUnit
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    name: Musketeer
+    prefab: Unit_01
+    cost: 10
+    countDown: 3
+    timeDeploy: 5
+    buycost: 100
+  - id: 2
+    name: ZomFlower
+    prefab: Unit_02
+    cost: 15
+    countDown: 3
+    timeDeploy: 8
+    buycost: 200
+  - id: 3
+    name: Sniper
+    prefab: Unit_03
+    cost: 20
+    countDown: 5
+    timeDeploy: 4
+    buycost: 300
+  - id: 4
+    name: StickBoy
+    prefab: Unit_04
+    cost: 25
+    countDown: 5
+    timeDeploy: 5
+    buycost: 400
+  - id: 5
+    name: GankTeam
+    prefab: Unit_05
+    cost: 30
+    countDown: 7
+    timeDeploy: 10
+    buycost: 500
+  - id: 6
+    name: OneEye
+    prefab: Unit_06
+    cost: 35
+    countDown: 8
+    timeDeploy: 20
+    buycost: 600
+  - id: 7
+    name: Lwas
+    prefab: Unit_07
+    cost: 40
+    countDown: 10
+    timeDeploy: 30
+    buycost: 700
+  - id: 8
+    name: GhostRider
+    prefab: Unit_08
+    cost: 45
+    countDown: 10
+    timeDeploy: 40
+    buycost: 800

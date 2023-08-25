@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2c1a22e29bf3f554893ce36d3162f505
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Speed Rush
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58d5f194dd8ed304c84804316d1198f3, type: 3}
+  - {fileID: 12800000, guid: e29bacc5f7728a6439afaf7728c95f1a, type: 3}
+  - {fileID: 12800000, guid: c74a760fc552e3447971bdafd6618daf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

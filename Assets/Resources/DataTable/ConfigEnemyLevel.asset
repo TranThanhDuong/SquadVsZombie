@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb5d70d16c8e4bf3a56459f0e3b1c73, type: 3}
+  m_Name: ConfigEnemyLevel
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    id_Enemy: 1
+    level: 1
+    damage: 1
+    hp: 8
+    rof: 5
+    speed: 0.6
+  - id: 10
+    id_Enemy: 1
+    level: 2
+    damage: 1
+    hp: 8
+    rof: 5
+    speed: 0.6
+  - id: 19
+    id_Enemy: 1
+    level: 3
+    damage: 1
+    hp: 8
+    rof: 5
+    speed: 0.6
+  - id: 2
+    id_Enemy: 2
+    level: 1
+    damage: 1
+    hp: 15
+    rof: 4
+    speed: 0.5
+  - id: 11
+    id_Enemy: 2
+    level: 2
+    damage: 1
+    hp: 15
+    rof: 4
+    speed: 0.5
+  - id: 20
+    id_Enemy: 2
+    level: 3
+    damage: 1
+    hp: 15
+    rof: 4
+    speed: 0.5
+  - id: 3
+    id_Enemy: 3
+    level: 1
+    damage: 1
+    hp: 20
+    rof: 3
+    speed: 0.5
+  - id: 12
+    id_Enemy: 3
+    level: 2
+    damage: 1
+    hp: 20
+    rof: 3
+    speed: 0.5
+  - id: 21
+    id_Enemy: 3
+    level: 3
+    damage: 1
+    hp: 20
+    rof: 3
+    speed: 0.5
+  - id: 4
+    id_Enemy: 4
+    level: 1
+    damage: 1
+    hp: 10
+    rof: 5
+    speed: 0.75
+  - id: 13
+    id_Enemy: 4
+    level: 2
+    damage: 1
+    hp: 10
+    rof: 3
+    speed: 0.75
+  - id: 22
+    id_Enemy: 4
+    level: 3
+    damage: 1
+    hp: 10
+    rof: 3
+    speed: 0.75
+  - id: 5
+    id_Enemy: 5
+    level: 1
+    damage: 1
+    hp: 30
+    rof: 4
+    speed: 0.5
+  - id: 14
+    id_Enemy: 5
+    level: 2
+    damage: 1
+    hp: 30
+    rof: 3
+    speed: 0.5
+  - id: 23
+    id_Enemy: 5
+    level: 3
+    damage: 1
+    hp: 30
+    rof: 3
+    speed: 0.5
+  - id: 6
+    id_Enemy: 6
+    level: 1
+    damage: 1
+    hp: 8
+    rof: 3
+    speed: 0.5
+  - id: 15
+    id_Enemy: 6
+    level: 2
+    damage: 1
+    hp: 8
+    rof: 3
+    speed: 0.5
+  - id: 24
+    id_Enemy: 6
+    level: 3
+    damage: 1
+    hp: 8
+    rof: 3
+    speed: 0.5
+  - id: 7
+    id_Enemy: 7
+    level: 1
+    damage: 1
+    hp: 15
+    rof: 5
+    speed: 0.5
+  - id: 16
+    id_Enemy: 7
+    level: 2
+    damage: 1
+    hp: 15
+    rof: 3
+    speed: 0.5
+  - id: 25
+    id_Enemy: 7
+    level: 3
+    damage: 1
+    hp: 15
+    rof: 3
+    speed: 0.5
+  - id: 8
+    id_Enemy: 8
+    level: 1
+    damage: 1
+    hp: 40
+    rof: 4
+    speed: 0.5
+  - id: 17
+    id_Enemy: 8
+    level: 2
+    damage: 1
+    hp: 40
+    rof: 3
+    speed: 0.5
+  - id: 26
+    id_Enemy: 8
+    level: 3
+    damage: 1
+    hp: 40
+    rof: 3
+    speed: 0.5
+  - id: 9
+    id_Enemy: 9
+    level: 1
+    damage: 1
+    hp: 15
+    rof: 3
+    speed: 0.6
+  - id: 18
+    id_Enemy: 9
+    level: 2
+    damage: 1
+    hp: 15
+    rof: 3
+    speed: 0.6
+  - id: 27
+    id_Enemy: 9
+    level: 3
+    damage: 1
+    hp: 15
+    rof: 3
+    speed: 0.6

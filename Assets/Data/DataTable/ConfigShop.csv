@@ -1,0 +1,9 @@
+id,name,itemType,description,cost,value,imageIcon,discount
+1,Small,1,Small,0.99,50,Small_S,0
+2,Common,1,Common,1.99,100,Common_S,0
+3,Big deal,1,Big deal,4.99,500,Big deal_S,100
+4,Supper,1,Supper,9.99,1000,Supper_S,0
+5,Small,2,Small,0.99,200,Small_G,0
+6,Common,2,Common,1.99,400,Common_G,0
+7,Big deal,2,Big deal,4.99,1500,Big deal_G,50
+8,Supper,2,Supper,9.99,2500,Supper_G,50

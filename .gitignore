@@ -1,0 +1,12 @@
+.vs
+Assets/Scripts/OtherLearn
+Library
+Logs
+obj
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+SquadVsZombie.sln
